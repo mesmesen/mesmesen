@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello form me
+
+I am a Swedish teenager who is currently learning to code and all the other fun things associated with it, I suppose.
 
 <!--
 **mesmesen/mesmesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
