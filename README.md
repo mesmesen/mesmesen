@@ -1,8 +1,11 @@
 ## 😸 Hello from me 😺
 
-I am a Swedish teenager who is currently learning to code and all the other fun things associated with it, I suppose.
-I sometimes do stuff too
+I am a Swedish teenager
+I sometimes do stuff
 
+- 📫 Location: Sweden
+- ⚡ accustomed to: HTML and JavaScript
+- 🌱 Learning: Java, Node.js & Basic
 <!--
 **mesmesen/mesmesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
