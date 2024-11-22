@@ -5,7 +5,7 @@ I sometimes do stuff
 
 - 📫 Location: Sweden
 - ⚡ accustomed to: HTML and JavaScript
-- 🌱 Learning: Java, Node.js & Basic
+- 🌱 Learning: Java, Node.js & BASIC
 <!--
 **mesmesen/mesmesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
